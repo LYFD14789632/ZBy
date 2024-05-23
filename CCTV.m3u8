@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 group-title="💘央视频道",CCTV-1综合
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+#EXTINF:-1 group-title="💘央视频道",CCTV-2财经
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+#EXTINF:-1 group-title="💘央视频道",CCTV-3综艺
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+#EXTINF:-1 group-title="💘央视频道",CCTV-4中文国际
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+#EXTINF:-1 group-title="💘央视频道",CCTV-5体育
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+#EXTINF:-1 group-title="💘央视频道",CCTV-5+体育赛事
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+#EXTINF:-1 group-title="💘央视频道",CCTV-6电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+#EXTINF:-1 group-title="🌺新疆综合",新疆｜伊犁维吾尔
+http://110.153.180.106:55555/out_2/index.m3u8
+#EXTINF:-1 group-title="🌺新疆综合",新疆｜伊犁维吾尔
+http://110.153.180.106:55555/out_2/index.m3u8?zxinjd
+#EXTINF:-1 group-title="🌺新疆综合",新疆｜兵团四师可克达拉综合
+http://test5.btzx.com.cn/live/kkdl.stream/playlist.m3u8?zxinjd
+#EXTINF:-1 group-title="🌺新疆综合",新疆｜兵团八师石河子新闻综合
+http://124.88.144.73:1935/live/xwzh/playlist.m3u8?zxinjd
+#EXTINF:-1 group-title="🌺新疆综合",新疆｜兵团八师石河子经济生活
+http://124.88.144.73:1935/live/dywt/playlist.m3u8?zxinjd
+#EXTINF:-1 group-title="🌺新疆综合",新疆｜兵团十四师昆玉综合
+http://test5.btzx.com.cn/live/14TV.stream/playlist.m3u8?zxinjd
+#EXTINF:-1 group-title="韩国女团",韩国太妍35
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240139316317.mp4
+#EXTINF:-1 group-title="韩国女团",韩国太妍36
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240248465975.mp4
+#EXTINF:-1 group-title="韩国女团",韩国太妍37
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240139720035.mp4
+#EXTINF:-1 group-title="韩国女团",韩国太妍38
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240368550193.mp4
+#EXTINF:-1 group-title="韩国女团",韩国太妍40
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240370230905.mp4
+#EXTINF:-1 group-title="韩国女团",韩国太妍41
+https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240160716008.mp4
+#EXTINF:-1 group-title="历年春晚",春晚1984
+http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
+#EXTINF:-1 group-title="历年春晚",春晚1985
+http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
+#EXTINF:-1 group-title="历年春晚",春晚1986
+https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8
+#EXTINF:-1 group-title="历年春晚",春晚1987
+https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
+#EXTINF:-1 group-title="历年春晚",春晚1988
+https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
