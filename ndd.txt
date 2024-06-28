@@ -16,4 +16,5 @@
 16,https://putaozywcdn.com:166/20240621/uAxpT6NA/index.m3u8
 17,https://jpxzy.top/20240514/pbtld2Qt/index.m3u8
 18,https://jinpinxm.com/20240626/vO1gNIym/index.m3u8
+19,https://eu34.a1e6a123561e5555ac4610a91560c3b5.r2.cloudflarestorage.com/174000/174109/174109_720p.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=2a2a645851f2acf122c8bd4809ee7f5d%2F20240628%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20240628T091901Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=3a7c9e1a135be2749ac6c403edf3c0eeb9ca42fe0b8b95e5bfe8dbc30b51b98f
 
