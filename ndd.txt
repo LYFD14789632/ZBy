@@ -16,7 +16,9 @@
 16,https://putaozywcdn.com:166/20240621/uAxpT6NA/index.m3u8
 17,https://jpxzy.top/20240514/pbtld2Qt/index.m3u8
 18,https://jinpinxm.com/20240626/vO1gNIym/index.m3u8
-19,https://eu34.a1e6a123561e5555ac4610a91560c3b5.r2.cloudflarestorage.com/174000/174109/174109_720p.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=2a2a645851f2acf122c8bd4809ee7f5d%2F20240628%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20240628T091901Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=3a7c9e1a135be2749ac6c403edf3c0eeb9ca42fe0b8b95e5bfe8dbc30b51b98f
-20,https://eu47.a1e6a123561e5555ac4610a91560c3b5.r2.cloudflarestorage.com/251000/251514/251514_720p.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=2a2a645851f2acf122c8bd4809ee7f5d%2F20240628%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20240628T092845Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=d6ea876cce33f05702f9a7b4cee7f408a4e8e0df23d85d0f8ed4fa83a28b9ec0
-21,https://d3s03o0wrt377e.cloudfront.net/storage/m3u8_files/signed/961716ec623b5292c1e721872b240dbd.m3u8?Expires=1719572848&Signature=l1nr~4Ar2aUvhjiXBqEMih6nJdT9cw2mEkCOrec4gF9G~2rMfCkQKqblQgth-hbfJ53sbvENqvGsYw-SfL4pmAa-tUZdYmZ3cQ42bxngUFuJcm5iLy5yc5-U36~xFr7k3pzqLg4UxGYzFbAuZqzIXb2Aw5VMIooIchxfQf-TJUWmcE2pqZmkyQ7yhywRc3RLU642IbAI3TojiZH8Rr91TfhDIel9VUzdGqIVgVjMpCeUwLRFkTn6zScK9WvpexrdGo-EBP~ZqJXAtYP8Ensrm4KNWlbYyhpHh2b8Bm8YMSqGAWAP9MbJzTqW1bPcvO6cw9MkzbdkqxGU1SVA62KHUg__&Key-Pair-Id=APKAX3PQZIMETXL5BD6Y
-
+19,https://jinpinxm.com/20240627/hncVEyYb/index.m3u8
+20,https://jinpinxm.com/20240627/w9MQ1cRA/index.m3u8
+21,https://jinpinxm.com/20240627/sZK5jYdn/index.m3u8
+22,https://jinpinxm.com/20240622/h4bgjHNi/index.m3u8
+23,https://t23a.cdn2020.com/video/m3u8/2023/12/24/856cc040/index.m3u8
+24,https://t23a.cdn2020.com/video/m3u8/2024/01/27/61c21917/index.m3u8
