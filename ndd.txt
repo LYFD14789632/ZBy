@@ -29,3 +29,8 @@
 29,https://putaozywcdn.com:166/20240630/TPAIbABi/index.m3u8
 30,https://putaozywcdn.com:166/20240702/LqEGhd6g/index.m3u8
 31,https://putaozywcdn.com:166/20240702/u8mTA3Aj/index.m3u8
+32,https://jpxzy.top/20240130/yNiQFng2/index.m3u8
+33,https://putaozywcdn.com:166/20240407/xxp8eB7k/index.m3u8
+34,https://jpxzy.top/20231209/dmOfR2iB/index.m3u8
+35,https://jinpinxm.com/20240705/AQqCdAug/index.m3u8
+36,https://jinpinxm.com/20240705/J6SZ9bUN/index.m3u8
